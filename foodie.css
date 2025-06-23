@@ -1,0 +1,75 @@
+h1 {
+    font-size: 700%;
+    font-family: cursive;
+    color: green;
+}
+
+li{
+    color: white;
+    font-size: 20px;
+}
+
+label{
+    color:  white;
+}
+
+h2{
+    color: white;
+    font-style: oblique;
+    font-size: 250%;
+}
+
+button {
+    background-color: rgb(91, 207, 13);
+    padding: 10px;
+    cursor: pointer;
+}
+
+P {
+    color: white;
+    text-decoration: underline;
+    font-family: sans-serif;
+    font-size: 150%;
+}
+
+div {
+    font-size: 60%;
+}
+
+button:hover {
+    background-color: darkgreen;
+    padding: 12px;
+
+}
+
+body {
+    height: 100vh;
+     background-image: url('food images/photo-1571091718767-18b5b1457add.jpeg');
+     padding: 2%;
+     background-position: center;
+     background-size: cover;
+     background-attachment: fixed;
+    }
+
+a:hover {
+    color: cyan;
+}
+
+form {
+    font-size: 200%;
+    margin: 2%;
+    padding: 2%;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+
+footer {
+  text-align: right;
+}
+
+ol {
+    margin: 2%;
+    padding: 2%;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
